@@ -1,10 +1,10 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "require"
-version = "0.1.4-4"
+version = "0.1.4-5"
 -- LuaDist source
 source = {
-  tag = "0.1.4-4",
+  tag = "0.1.4-5",
   url = "git://github.com/LuaDist-testing/require.git"
 }
 -- Original source
@@ -24,7 +24,7 @@ Lua 5.1 and 5.2 semantics are supported.
 }
 
 dependencies = {
-   "lua ~> 5.1, ~> 5.2"
+   "lua >= 5.1, < 5.3"
 }
 
 build = {

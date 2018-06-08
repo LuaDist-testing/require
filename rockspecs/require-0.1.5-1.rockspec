@@ -1,17 +1,9 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "require"
-version = "0.1.4-5"
--- LuaDist source
+version = "0.1.5-1"
 source = {
-  tag = "0.1.4-5",
-  url = "git://github.com/LuaDist-testing/require.git"
+   url = "git://github.com/pygy/require.lua.git",
+   tag = "v0.1.5"
 }
--- Original source
--- source = {
---    url = "git://github.com/pygy/require.lua.git",
---    tag = "v0.1.4"
--- }
 
 description = {
    summary = "`require()` rewritten in plain Lua",
@@ -33,3 +25,4 @@ build = {
     require = "./require.lua"
   }
 }
+

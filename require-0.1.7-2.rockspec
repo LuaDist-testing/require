@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "require"
-version = "0.1.5-1"
+version = "0.1.7-2"
 -- LuaDist source
 source = {
-  tag = "0.1.5-1",
+  tag = "0.1.7-2",
   url = "git://github.com/LuaDist-testing/require.git"
 }
 -- Original source
 -- source = {
 --    url = "git://github.com/pygy/require.lua.git",
---    tag = "v0.1.5"
+--    tag = "v0.1.7"
 -- }
 
 description = {

@@ -1,10 +1,10 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "require"
-version = "0.1.4-2"
+version = "0.1.4-3"
 -- LuaDist source
 source = {
-  tag = "0.1.4-2",
+  tag = "0.1.4-3",
   url = "git://github.com/LuaDist-testing/require.git"
 }
 -- Original source
@@ -28,7 +28,7 @@ dependencies = {
 }
 
 build = {
-  type = "builtin",
+  type = "none",
   modules = {
     require = "require.lua"
   }
